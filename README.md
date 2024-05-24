@@ -1,4 +1,4 @@
-# Project Name
+# Journey Nest
 
 A project inspired by Airbnb with additional unique features. This application leverages modern web technologies to provide an efficient and user-friendly platform for renting and listing properties.
 
