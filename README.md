@@ -1,6 +1,6 @@
 # Journey Nest
 
-A project inspired by Airbnb with additional unique features. This application leverages modern web technologies to provide an efficient and user-friendly platform for renting and listing properties.
+A project inspired by travelling websites with additional unique features. This application leverages modern web technologies to provide an efficient and user-friendly platform for renting and listing properties.
 
 ## Table of Contents
 - [Features](#features)
@@ -43,7 +43,7 @@ A project inspired by Airbnb with additional unique features. This application l
 
 3. Run the application:
     ```bash
-    npm start
+    node index.js
     ```
 
 ## Usage
